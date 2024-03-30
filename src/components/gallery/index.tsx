@@ -1,4 +1,5 @@
 import React from 'react';
+// refactor this so that it reads data from an object and THEN imports based on that data. 
 import KazuhaImage from '../../assets/images/genshin-kazuha-leaves.png';
 import RaidenImage from '../../assets/images/genshin-raiden-lotus.png';
 import ScaraImage from '../../assets/images/genshin-scara-cat.png';
