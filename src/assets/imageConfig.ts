@@ -5,7 +5,8 @@ import VentiImage from './images/genshin-venti-angel.png';
 import YaeImage from './images/genshin-yae-miko-sakura.png';
 import KenmaImage from './images/haikyuu-kenma.png';
 import UnaCielImage from './images/original-una-ciel-trees.png';
-import PokemonStickers from './images/pokemon-eeveelutions.png';
+import PokemonStickersRegular from './images/eeveelutions_left.png';
+import PokemonStickersShiny from './images/eeveelutions-right.png';
 import ChihiroImage from './images/spirited-away-haku-chihiro.png';
 import FrogStickers from './images/totk-frog-stickers.png';
 import LinkDragonImage from './images/totk-link-dragon.png';
@@ -39,16 +40,20 @@ export const imageGalleryConfig : ImageGalleryConfigType = [
         altText: "Original Artwork with OCs Una and Ciel in a eucalyptus forest",
     },
     {
+        src: ChihiroImage,
+        altText: "Chihiro and Dragon Haku in Ocean",
+    },
+    {
         src: LinkDragonImage,
         altText: "Tears of the Kingdom - Link and the Light Dragon in the sky at sunset",
     },
     {
-        src: PokemonStickers,
+        src: PokemonStickersRegular,
         altText: "Pokemon Eeveelution Stickers",
     },
     {
-        src: ChihiroImage,
-        altText: "Chihiro and Dragon Haku in Ocean",
+        src: PokemonStickersShiny,
+        altText: "Pokemon Eeveelution Stickers - Shiny",
     },
     {
         src: FrogStickers,
