@@ -1,10 +1,5 @@
 import React from 'react';
-// refactor this so that it reads data from an object and THEN imports based on that data. 
-import KazuhaImage from '../../assets/images/genshin-kazuha-leaves.png';
-import RaidenImage from '../../assets/images/genshin-raiden-lotus.png';
-import ScaraImage from '../../assets/images/genshin-scara-cat.png';
-import VentiImage from '../../assets/images/genshin-venti-angel.png';
-import YaeImage from '../../assets/images/genshin-yae-miko-sakura.png';
+import { imageGalleryConfig } from '../../assets/imageConfig';
 
 const galleryDisplayStyles = {
     display: 'flex',
@@ -25,13 +20,20 @@ const containerStyles = {
 export const Gallery : React.FunctionComponent = () => {
     return (
         <div style={containerStyles}>
-        <div style={galleryDisplayStyles}>
-            <img src={KazuhaImage} alt="Genshin Kazuha Leaves Artwork" height='500px' />
-            <img src={RaidenImage} alt="Genshin Raiden Lotus Artwork" height='500px' />
-            <img src={ScaraImage} alt="Genshin Scaramouche Artwork" height='500px' />
-            <img src={VentiImage} alt="Genshin Venti Artwork" height='500px' />
-            <img src={YaeImage} alt="Genshin Yae Miko Artwork" height='500px' />
-        </div>
+            <div style={galleryDisplayStyles}>
+                {
+                    imageGalleryConfig.map((info, index) => {
+                        return (
+                            <img key={index} 
+                                src={info.src} 
+                                alt={info.altText} 
+                                height='500px'
+                            />
+                        )
+                    }
+                    )
+                }
+            </div>
         </div>
     )
 }

@@ -24,7 +24,7 @@ const Home : React.FunctionComponent = () => {
             </div>
             <Gallery/>
         </div>
-    )
+    );
 }
 
 export default Home;
