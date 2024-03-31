@@ -33,18 +33,7 @@ export const imageGalleryConfig : ImageGalleryConfigType = [
         src: VentiImage,
         altText: "Genshin Venti Artwork",
     },
-    {
-        src: ScaraImage,
-        altText: "Genshin Scaramouche Artwork",
-    },
-    {
-        src: YaeImage,
-        altText: "Genshin Impact - Yae Miko under sakura blossoms",
-    },
-    {
-        src: KenmaImage,
-        altText: "Haikyuu Kenma Artwork",
-    },
+    
     {
         src: UnaCielImage,
         altText: "Original Artwork with OCs Una and Ciel in a eucalyptus forest",
@@ -68,5 +57,17 @@ export const imageGalleryConfig : ImageGalleryConfigType = [
     {
         src: ZeldaGrassImage,
         altText: "Tears of the Kingdom - Zelda lying in the grass, inspired by a scene at the end of the game",
+    },
+    {
+        src: ScaraImage,
+        altText: "Genshin Scaramouche Artwork",
+    },
+    {
+        src: YaeImage,
+        altText: "Genshin Impact - Yae Miko under sakura blossoms",
+    },
+    {
+        src: KenmaImage,
+        altText: "Haikyuu Kenma Artwork",
     },
 ];

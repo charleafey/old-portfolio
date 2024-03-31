@@ -1,6 +1,7 @@
 import React from 'react';
 import { ReactComponent as InstaSvg } from '../../assets/insta.svg';
 import Gallery from '../../components/gallery';
+import './styles.css';
 
 const titleStyles = {
     fontSize: '64px',
@@ -19,7 +20,7 @@ const Home : React.FunctionComponent = () => {
             <div style={headerStyles}>
                 <h1 style={titleStyles}>charraxeon</h1>
                 <a href="https://www.instagram.com/charraxeon/">
-                    <InstaSvg/>
+                    <InstaSvg className="instaIcon"/>
                 </a>
             </div>
             <Gallery/>
