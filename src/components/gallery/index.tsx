@@ -1,5 +1,6 @@
 import React from 'react';
 import { imageGalleryConfig } from '../../assets/imageConfig';
+import { GalleryImage } from '../gallery-image';
 
 const galleryDisplayStyles = {
     display: 'flex',
@@ -24,10 +25,10 @@ export const Gallery : React.FunctionComponent = () => {
                 {
                     imageGalleryConfig.map((info, index) => {
                         return (
-                            <img key={index} 
-                                src={info.src} 
-                                alt={info.altText} 
-                                height='500px'
+                            <GalleryImage
+                                imageSrc={info.src}
+                                key={index}
+                                altText={info.altText}
                             />
                         )
                     }
