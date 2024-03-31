@@ -1,7 +1,6 @@
 import React from 'react';
 
-export default function Artwork() {
-    return (
-        <div/>
-    )
+
+export const Artwork : React.FunctionComponent = () => {
+    return (<div/>)
 }

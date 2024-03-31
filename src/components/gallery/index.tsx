@@ -22,7 +22,7 @@ const containerStyles = {
     margin: '20px',
 }
 
-export default function Gallery() {
+export const Gallery : React.FunctionComponent = () => {
     return (
         <div style={containerStyles}>
         <div style={galleryDisplayStyles}>
@@ -35,3 +35,5 @@ export default function Gallery() {
         </div>
     )
 }
+
+export default Gallery;

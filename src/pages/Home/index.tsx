@@ -13,7 +13,7 @@ const headerStyles = {
     borderBottom: '2px solid gray',
 }
 
-export default function Home() {
+const Home : React.FunctionComponent = () => {
     return (
         <div>
             <div style={headerStyles}>
@@ -26,3 +26,5 @@ export default function Home() {
         </div>
     )
 }
+
+export default Home;
