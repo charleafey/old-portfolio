@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/art-portfolio/static/css/main.5672d53f.css",
-    "main.js": "/art-portfolio/static/js/main.1d65e9ed.js",
+    "main.css": "/art-portfolio/static/css/main.e23f0c6c.css",
+    "main.js": "/art-portfolio/static/js/main.6fc93fa3.js",
     "static/js/453.a59e1ba8.chunk.js": "/art-portfolio/static/js/453.a59e1ba8.chunk.js",
     "static/media/original-una-ciel-trees.png": "/art-portfolio/static/media/original-una-ciel-trees.8a94794824260784f41d.png",
     "static/media/genshin-yae-miko-sakura.png": "/art-portfolio/static/media/genshin-yae-miko-sakura.24def772302f12495e86.png",
@@ -17,12 +17,12 @@
     "static/media/totk-frog-stickers.png": "/art-portfolio/static/media/totk-frog-stickers.b376fb4737d0b5fc5dd1.png",
     "static/media/insta.svg": "/art-portfolio/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/art-portfolio/index.html",
-    "main.5672d53f.css.map": "/art-portfolio/static/css/main.5672d53f.css.map",
-    "main.1d65e9ed.js.map": "/art-portfolio/static/js/main.1d65e9ed.js.map",
+    "main.e23f0c6c.css.map": "/art-portfolio/static/css/main.e23f0c6c.css.map",
+    "main.6fc93fa3.js.map": "/art-portfolio/static/js/main.6fc93fa3.js.map",
     "453.a59e1ba8.chunk.js.map": "/art-portfolio/static/js/453.a59e1ba8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5672d53f.css",
-    "static/js/main.1d65e9ed.js"
+    "static/css/main.e23f0c6c.css",
+    "static/js/main.6fc93fa3.js"
   ]
 }
