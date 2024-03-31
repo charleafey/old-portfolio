@@ -1,21 +1,28 @@
 {
   "files": {
     "main.css": "/art-portfolio/static/css/main.5672d53f.css",
-    "main.js": "/art-portfolio/static/js/main.27e30523.js",
+    "main.js": "/art-portfolio/static/js/main.1d65e9ed.js",
     "static/js/453.a59e1ba8.chunk.js": "/art-portfolio/static/js/453.a59e1ba8.chunk.js",
+    "static/media/original-una-ciel-trees.png": "/art-portfolio/static/media/original-una-ciel-trees.8a94794824260784f41d.png",
     "static/media/genshin-yae-miko-sakura.png": "/art-portfolio/static/media/genshin-yae-miko-sakura.24def772302f12495e86.png",
     "static/media/genshin-raiden-lotus.png": "/art-portfolio/static/media/genshin-raiden-lotus.d9ee4173692d2904a7f3.png",
+    "static/media/spirited-away-haku-chihiro.png": "/art-portfolio/static/media/spirited-away-haku-chihiro.d29706241dbbadd81e92.png",
     "static/media/genshin-kazuha-leaves.png": "/art-portfolio/static/media/genshin-kazuha-leaves.7cf8f4c769a62167794d.png",
+    "static/media/totk-zelda-grass.png": "/art-portfolio/static/media/totk-zelda-grass.b309411d431da0142fdc.png",
     "static/media/genshin-venti-angel.png": "/art-portfolio/static/media/genshin-venti-angel.809240dcfbafabacc5d0.png",
+    "static/media/totk-link-dragon.png": "/art-portfolio/static/media/totk-link-dragon.78483bbbb96d6488846a.png",
+    "static/media/pokemon-eeveelutions.png": "/art-portfolio/static/media/pokemon-eeveelutions.616977c52d141a52a4b5.png",
+    "static/media/haikyuu-kenma.png": "/art-portfolio/static/media/haikyuu-kenma.1392937901d7a73bb2be.png",
     "static/media/genshin-scara-cat.png": "/art-portfolio/static/media/genshin-scara-cat.0de409815c3d213fbc28.png",
+    "static/media/totk-frog-stickers.png": "/art-portfolio/static/media/totk-frog-stickers.b376fb4737d0b5fc5dd1.png",
     "static/media/insta.svg": "/art-portfolio/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/art-portfolio/index.html",
     "main.5672d53f.css.map": "/art-portfolio/static/css/main.5672d53f.css.map",
-    "main.27e30523.js.map": "/art-portfolio/static/js/main.27e30523.js.map",
+    "main.1d65e9ed.js.map": "/art-portfolio/static/js/main.1d65e9ed.js.map",
     "453.a59e1ba8.chunk.js.map": "/art-portfolio/static/js/453.a59e1ba8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5672d53f.css",
-    "static/js/main.27e30523.js"
+    "static/js/main.1d65e9ed.js"
   ]
 }
