@@ -11,7 +11,7 @@ const titleStyles = {
 const headerStyles = {
     margin: '30px',
     paddingBottom: '20px',
-    borderBottom: '2px solid gray',
+    borderBottom: '2px solid lightgray',
 }
 
 const Home : React.FunctionComponent = () => {

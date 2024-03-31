@@ -22,18 +22,6 @@ type ImageGalleryConfigType = ImageConfigType[];
 
 
 export const imageGalleryConfig : ImageGalleryConfigType = [
-    {
-        src: KazuhaImage,
-        altText: "Genshin Kazuha Leaves Artwork",
-    },
-    {
-        src: RaidenImage,
-        altText: "Genshin Raiden Lotus Artwork",
-    },
-    {
-        src: VentiImage,
-        altText: "Genshin Venti Artwork",
-    },
     
     {
         src: UnaCielImage,
@@ -43,6 +31,19 @@ export const imageGalleryConfig : ImageGalleryConfigType = [
         src: ChihiroImage,
         altText: "Chihiro and Dragon Haku in Ocean",
     },
+    {
+        src: VentiImage,
+        altText: "Genshin Venti Artwork",
+    },
+    {
+        src: KazuhaImage,
+        altText: "Genshin Kazuha Leaves Artwork",
+    },
+    {
+        src: RaidenImage,
+        altText: "Genshin Raiden Lotus Artwork",
+    },
+    
     {
         src: LinkDragonImage,
         altText: "Tears of the Kingdom - Link and the Light Dragon in the sky at sunset",
