@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-portfolio/static/css/main.363e05d5.css",
-    "main.js": "/art-portfolio/static/js/main.546c54a5.js",
+    "main.js": "/art-portfolio/static/js/main.f1605086.js",
     "static/js/453.a59e1ba8.chunk.js": "/art-portfolio/static/js/453.a59e1ba8.chunk.js",
     "static/media/genshin-raiden-lotus.png": "/art-portfolio/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
     "static/media/spirited-away-haku-chihiro.png": "/art-portfolio/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
@@ -19,11 +19,11 @@
     "static/media/insta.svg": "/art-portfolio/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/art-portfolio/index.html",
     "main.363e05d5.css.map": "/art-portfolio/static/css/main.363e05d5.css.map",
-    "main.546c54a5.js.map": "/art-portfolio/static/js/main.546c54a5.js.map",
+    "main.f1605086.js.map": "/art-portfolio/static/js/main.f1605086.js.map",
     "453.a59e1ba8.chunk.js.map": "/art-portfolio/static/js/453.a59e1ba8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.363e05d5.css",
-    "static/js/main.546c54a5.js"
+    "static/js/main.f1605086.js"
   ]
 }
