@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactComponent as InstaSvg } from '../../assets/insta.svg';
 import './styles.css';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 const titleStyles = {
     fontSize: '64px',
@@ -36,9 +36,9 @@ const Header : React.FunctionComponent = () => {
             
         </div>
         <nav style={navStyles}>
-        <Link to="/" className="pageLink">ILLUSTRATION</Link>
-        <Link to="/merch" className="pageLink">MERCH</Link>
-    </nav>
+            <NavLink to="/" className="pageLink">ILLUSTRATION</NavLink>
+            <NavLink to="/merch" className="pageLink">MERCH</NavLink>
+        </nav>
     </React.Fragment>
     );
 }

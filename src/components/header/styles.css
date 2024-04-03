@@ -3,6 +3,10 @@
 }
 
 .pageLink {
-    color: rgb(95, 161, 157);
+    color: rgb(142, 188, 185);
     text-decoration: none;
+}
+
+.active {
+    color: rgb(60, 114, 110);
 }
