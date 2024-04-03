@@ -15,15 +15,13 @@ const headerStyles = {
 
 const Header : React.FunctionComponent = () => {
     return (
-        <div>
-            <div style={headerStyles}>
-                <h1 style={titleStyles}>charraxeon</h1>
-                <p>charley (they/them)</p>
-                <p><em>asian australian artist and chaser of colours through the trees.</em></p>
-                <a href="https://www.instagram.com/charraxeon/">
-                    <InstaSvg className="instaIcon"/>
-                </a>
-            </div>
+        <div style={headerStyles}>
+            <h1 style={titleStyles}>charraxeon</h1>
+            <p>charley (they/them)</p>
+            <p><em>asian australian artist and chaser of colours through the trees.</em></p>
+            <a href="https://www.instagram.com/charraxeon/">
+                <InstaSvg className="instaIcon"/>
+            </a>
         </div>
     );
 }

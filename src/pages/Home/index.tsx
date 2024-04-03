@@ -4,10 +4,10 @@ import Header from '../../components/header';
 
 const Home : React.FunctionComponent = () => {
     return (
-        <div>
+        <React.Fragment>
             <Header/>
             <Gallery/>
-        </div>
+        </React.Fragment>
     );
 }
 
