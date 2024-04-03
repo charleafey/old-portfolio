@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/charraxeon/static/css/main.fc2bccca.css",
-    "main.js": "/charraxeon/static/js/main.8c8774a8.js",
+    "main.css": "/charraxeon/static/css/main.16ab2fec.css",
+    "main.js": "/charraxeon/static/js/main.d93260d7.js",
     "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
     "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
     "static/media/spirited-away-haku-chihiro.png": "/charraxeon/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
@@ -19,12 +19,12 @@
     "static/media/altaria-sundae.png": "/charraxeon/static/media/altaria-sundae.896dc1c16430b8da0ad5.png",
     "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/charraxeon/index.html",
-    "main.fc2bccca.css.map": "/charraxeon/static/css/main.fc2bccca.css.map",
-    "main.8c8774a8.js.map": "/charraxeon/static/js/main.8c8774a8.js.map",
+    "main.16ab2fec.css.map": "/charraxeon/static/css/main.16ab2fec.css.map",
+    "main.d93260d7.js.map": "/charraxeon/static/js/main.d93260d7.js.map",
     "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2bccca.css",
-    "static/js/main.8c8774a8.js"
+    "static/css/main.16ab2fec.css",
+    "static/js/main.d93260d7.js"
   ]
 }
