@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/art-portfolio/static/css/main.363e05d5.css",
-    "main.js": "/art-portfolio/static/js/main.f1605086.js",
-    "static/js/453.a59e1ba8.chunk.js": "/art-portfolio/static/js/453.a59e1ba8.chunk.js",
-    "static/media/genshin-raiden-lotus.png": "/art-portfolio/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
-    "static/media/spirited-away-haku-chihiro.png": "/art-portfolio/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
-    "static/media/genshin-kazuha-leaves.png": "/art-portfolio/static/media/genshin-kazuha-leaves.bf8bd02e60ac9a61b4ed.png",
-    "static/media/original-una-ciel-trees.png": "/art-portfolio/static/media/original-una-ciel-trees.e4d71cfd2bd75588a726.png",
-    "static/media/totk-zelda-grass.png": "/art-portfolio/static/media/totk-zelda-grass.79f66adbea46fc7292f8.png",
-    "static/media/genshin-venti-angel.png": "/art-portfolio/static/media/genshin-venti-angel.1d0236b732f52111d1c5.png",
-    "static/media/genshin-yae-miko-sakura.png": "/art-portfolio/static/media/genshin-yae-miko-sakura.809808da2302af961393.png",
-    "static/media/haikyuu-kenma.png": "/art-portfolio/static/media/haikyuu-kenma.f80ab80aa8dfcde11d21.png",
-    "static/media/totk-link-dragon.png": "/art-portfolio/static/media/totk-link-dragon.2f6e16214b98ba02320a.png",
-    "static/media/genshin-scara-cat.png": "/art-portfolio/static/media/genshin-scara-cat.b3613901af85abefb013.png",
-    "static/media/eeveelutions-right.png": "/art-portfolio/static/media/eeveelutions-right.8bafb61903bc61415d36.png",
-    "static/media/eeveelutions_left.png": "/art-portfolio/static/media/eeveelutions_left.a953f61fc0f1c0623541.png",
-    "static/media/totk-frog-stickers.png": "/art-portfolio/static/media/totk-frog-stickers.12a98a78473a081dba50.png",
-    "static/media/insta.svg": "/art-portfolio/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
-    "index.html": "/art-portfolio/index.html",
-    "main.363e05d5.css.map": "/art-portfolio/static/css/main.363e05d5.css.map",
-    "main.f1605086.js.map": "/art-portfolio/static/js/main.f1605086.js.map",
-    "453.a59e1ba8.chunk.js.map": "/art-portfolio/static/js/453.a59e1ba8.chunk.js.map"
+    "main.css": "/charraxeon/static/css/main.2ac09820.css",
+    "main.js": "/charraxeon/static/js/main.d1a0e3ac.js",
+    "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
+    "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
+    "static/media/spirited-away-haku-chihiro.png": "/charraxeon/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
+    "static/media/genshin-kazuha-leaves.png": "/charraxeon/static/media/genshin-kazuha-leaves.bf8bd02e60ac9a61b4ed.png",
+    "static/media/original-una-ciel-trees.png": "/charraxeon/static/media/original-una-ciel-trees.e4d71cfd2bd75588a726.png",
+    "static/media/totk-zelda-grass.png": "/charraxeon/static/media/totk-zelda-grass.79f66adbea46fc7292f8.png",
+    "static/media/genshin-venti-angel.png": "/charraxeon/static/media/genshin-venti-angel.1d0236b732f52111d1c5.png",
+    "static/media/genshin-yae-miko-sakura.png": "/charraxeon/static/media/genshin-yae-miko-sakura.809808da2302af961393.png",
+    "static/media/haikyuu-kenma.png": "/charraxeon/static/media/haikyuu-kenma.f80ab80aa8dfcde11d21.png",
+    "static/media/totk-link-dragon.png": "/charraxeon/static/media/totk-link-dragon.2f6e16214b98ba02320a.png",
+    "static/media/genshin-scara-cat.png": "/charraxeon/static/media/genshin-scara-cat.b3613901af85abefb013.png",
+    "static/media/eeveelutions-right.png": "/charraxeon/static/media/eeveelutions-right.8bafb61903bc61415d36.png",
+    "static/media/eeveelutions_left.png": "/charraxeon/static/media/eeveelutions_left.a953f61fc0f1c0623541.png",
+    "static/media/totk-frog-stickers.png": "/charraxeon/static/media/totk-frog-stickers.12a98a78473a081dba50.png",
+    "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
+    "index.html": "/charraxeon/index.html",
+    "main.2ac09820.css.map": "/charraxeon/static/css/main.2ac09820.css.map",
+    "main.d1a0e3ac.js.map": "/charraxeon/static/js/main.d1a0e3ac.js.map",
+    "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.363e05d5.css",
-    "static/js/main.f1605086.js"
+    "static/css/main.2ac09820.css",
+    "static/js/main.d1a0e3ac.js"
   ]
 }
