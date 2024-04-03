@@ -14,14 +14,6 @@ const headerStyles = {
     borderBottom: '2px solid lightgray',
 }
 
-const nameStyles = {
-    fontWeight: 'bold',
-}
-
-const descriptionStyles = {
-    fontStyle: 'italic',
-}
-
 const Home : React.FunctionComponent = () => {
     return (
         <div>
