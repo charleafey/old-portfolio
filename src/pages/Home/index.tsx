@@ -14,11 +14,21 @@ const headerStyles = {
     borderBottom: '2px solid lightgray',
 }
 
+const nameStyles = {
+    fontWeight: 'bold',
+}
+
+const descriptionStyles = {
+    fontStyle: 'italic',
+}
+
 const Home : React.FunctionComponent = () => {
     return (
         <div>
             <div style={headerStyles}>
                 <h1 style={titleStyles}>charraxeon</h1>
+                <p>charley (they/them)</p>
+                <p><em>asian australian artist and chaser of colours through the trees.</em></p>
                 <a href="https://www.instagram.com/charraxeon/">
                     <InstaSvg className="instaIcon"/>
                 </a>
