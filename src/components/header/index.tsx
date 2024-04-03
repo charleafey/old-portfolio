@@ -37,8 +37,8 @@ const Header : React.FunctionComponent = () => {
         </div>
         <nav style={navStyles}>
             <NavLink to="/" className="pageLink">ILLUSTRATION</NavLink>
-            <NavLink to="/merch" className="pageLink">MERCH</NavLink>
-            <NavLink to="/more" className="pageLink">MORE</NavLink>
+            <NavLink to="/stickers" className="pageLink">STICKERS</NavLink>
+            <NavLink to="/more" className="pageLink">GRAPHICS</NavLink>
         </nav>
     </React.Fragment>
     );

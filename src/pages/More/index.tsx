@@ -1,11 +1,11 @@
 import React from 'react';
 import Gallery from '../../components/gallery';
-import { moreImageList } from '../../assets/gallery-config/more';
+import { graphicsImageList } from '../../assets/gallery-config/graphics';
 
 const MorePage : React.FunctionComponent = () => {
     return (
         <React.Fragment>
-            <Gallery imageList={moreImageList}/>
+            <Gallery imageList={graphicsImageList}/>
         </React.Fragment>
     );
 }
