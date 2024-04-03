@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactComponent as InstaSvg } from '../../assets/insta.svg';
 import './styles.css';
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 const titleStyles = {
     fontSize: '64px',
@@ -28,7 +28,7 @@ const Header : React.FunctionComponent = () => {
         <React.Fragment>
         <div style={headerStyles}>
             <h1 style={titleStyles}>charraxeon</h1>
-            <p>charley (they/them)</p>
+            <p style={{fontWeight: "bold"}}>charley <span className="pronouns">(they/them)</span></p>
             <p><em>asian australian artist and chaser of colours through the trees.</em></p>
             <a href="https://www.instagram.com/charraxeon/">
                 <InstaSvg className="instaIcon"/>
