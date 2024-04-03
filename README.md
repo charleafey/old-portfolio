@@ -1,3 +1,6 @@
 # Art Portfolio
 
-This project is a simple art portfolio website, which displays some of my personal digital illustrations. 
+This project is my digital art portfolio, which can be found at this url:
+
+https://chelffey.github.io/charraxeon/
+
