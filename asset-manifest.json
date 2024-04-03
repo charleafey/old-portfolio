@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/charraxeon/static/css/main.16ab2fec.css",
-    "main.js": "/charraxeon/static/js/main.f0bc2a3b.js",
+    "main.css": "/charraxeon/static/css/main.53d4332a.css",
+    "main.js": "/charraxeon/static/js/main.6096ab28.js",
     "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
+    "static/media/magazine.png": "/charraxeon/static/media/magazine.1d0109416e3e7053be72.png",
     "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
     "static/media/spirited-away-haku-chihiro.png": "/charraxeon/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
     "static/media/genshin-kazuha-leaves.png": "/charraxeon/static/media/genshin-kazuha-leaves.bf8bd02e60ac9a61b4ed.png",
+    "static/media/ghibli-day.png": "/charraxeon/static/media/ghibli-day.02dbec15c0c33ff9f741.png",
     "static/media/original-una-ciel-trees.png": "/charraxeon/static/media/original-una-ciel-trees.e4d71cfd2bd75588a726.png",
     "static/media/totk-zelda-grass.png": "/charraxeon/static/media/totk-zelda-grass.79f66adbea46fc7292f8.png",
     "static/media/genshin-venti-angel.png": "/charraxeon/static/media/genshin-venti-angel.1d0236b732f52111d1c5.png",
@@ -19,14 +21,17 @@
     "static/media/cat-keyboard.jpg": "/charraxeon/static/media/cat-keyboard.3e8ce372b89c755e17ec.jpg",
     "static/media/altaria-sundae.png": "/charraxeon/static/media/altaria-sundae.896dc1c16430b8da0ad5.png",
     "static/media/otter-wave.png": "/charraxeon/static/media/otter-wave.55207b22b4ce90b370b1.png",
+    "static/media/ghibli-night.png": "/charraxeon/static/media/ghibli-night.0f5582991ff7892c5f9b.png",
+    "static/media/pride-tattoo.png": "/charraxeon/static/media/pride-tattoo.c42cb03be8cb3c6cd0d6.png",
+    "static/media/willow.jpg": "/charraxeon/static/media/willow.f791cc8f053ff7c9c0cc.jpg",
     "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/charraxeon/index.html",
-    "main.16ab2fec.css.map": "/charraxeon/static/css/main.16ab2fec.css.map",
-    "main.f0bc2a3b.js.map": "/charraxeon/static/js/main.f0bc2a3b.js.map",
+    "main.53d4332a.css.map": "/charraxeon/static/css/main.53d4332a.css.map",
+    "main.6096ab28.js.map": "/charraxeon/static/js/main.6096ab28.js.map",
     "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16ab2fec.css",
-    "static/js/main.f0bc2a3b.js"
+    "static/css/main.53d4332a.css",
+    "static/js/main.6096ab28.js"
   ]
 }
