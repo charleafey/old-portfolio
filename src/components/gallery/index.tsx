@@ -1,6 +1,6 @@
 import React from 'react';
-import { imageGalleryConfig } from '../../assets/imageConfig';
 import { GalleryImage } from '../gallery-image';
+import { ImageGalleryConfigType } from '../../assets/gallery-config/types';
 
 const galleryDisplayStyles = {
     display: 'flex',
@@ -18,12 +18,16 @@ const containerStyles = {
     margin: '20px',
 }
 
-export const Gallery : React.FunctionComponent = () => {
+type GalleryProps = {
+    imageList : ImageGalleryConfigType
+}
+
+export const Gallery : React.FunctionComponent<GalleryProps> = ({imageList} : GalleryProps) => {
     return (
         <div style={containerStyles}>
             <div style={galleryDisplayStyles}>
                 {
-                    imageGalleryConfig.map((info, index) => {
+                    imageList.map((info, index) => {
                         return (
                             <GalleryImage
                                 imageSrc={info.src}
