@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/charraxeon/static/css/main.2ac09820.css",
-    "main.js": "/charraxeon/static/js/main.d1a0e3ac.js",
+    "main.css": "/charraxeon/static/css/main.fc2bccca.css",
+    "main.js": "/charraxeon/static/js/main.8c8774a8.js",
     "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
     "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
     "static/media/spirited-away-haku-chihiro.png": "/charraxeon/static/media/spirited-away-haku-chihiro.f4635ad594dce4560a55.png",
@@ -16,14 +16,15 @@
     "static/media/eeveelutions-right.png": "/charraxeon/static/media/eeveelutions-right.8bafb61903bc61415d36.png",
     "static/media/eeveelutions_left.png": "/charraxeon/static/media/eeveelutions_left.a953f61fc0f1c0623541.png",
     "static/media/totk-frog-stickers.png": "/charraxeon/static/media/totk-frog-stickers.12a98a78473a081dba50.png",
+    "static/media/altaria-sundae.png": "/charraxeon/static/media/altaria-sundae.896dc1c16430b8da0ad5.png",
     "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/charraxeon/index.html",
-    "main.2ac09820.css.map": "/charraxeon/static/css/main.2ac09820.css.map",
-    "main.d1a0e3ac.js.map": "/charraxeon/static/js/main.d1a0e3ac.js.map",
+    "main.fc2bccca.css.map": "/charraxeon/static/css/main.fc2bccca.css.map",
+    "main.8c8774a8.js.map": "/charraxeon/static/js/main.8c8774a8.js.map",
     "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac09820.css",
-    "static/js/main.d1a0e3ac.js"
+    "static/css/main.fc2bccca.css",
+    "static/js/main.8c8774a8.js"
   ]
 }
