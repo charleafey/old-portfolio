@@ -1,17 +1,17 @@
-import KazuhaImage from './images/genshin-kazuha-leaves.png';
-import RaidenImage from './images/genshin-raiden-lotus.png';
-import ScaraImage from './images/genshin-scara-cat.png';
-import VentiImage from './images/genshin-venti-angel.png';
-import YaeImage from './images/genshin-yae-miko-sakura.png';
-import KenmaImage from './images/haikyuu-kenma.png';
-import UnaCielImage from './images/original-una-ciel-trees.png';
-import ChihiroImage from './images/spirited-away-haku-chihiro.png';
-import LinkDragonImage from './images/totk-link-dragon.png';
-import ZeldaGrassImage from './images/totk-zelda-grass.png';
+import KazuhaImage from '../images/genshin-kazuha-leaves.png';
+import RaidenImage from '../images/genshin-raiden-lotus.png';
+import ScaraImage from '../images/genshin-scara-cat.png';
+import VentiImage from '../images/genshin-venti-angel.png';
+import YaeImage from '../images/genshin-yae-miko-sakura.png';
+import KenmaImage from '../images/haikyuu-kenma.png';
+import UnaCielImage from '../images/original-una-ciel-trees.png';
+import ChihiroImage from '../images/spirited-away-haku-chihiro.png';
+import LinkDragonImage from '../images/totk-link-dragon.png';
+import ZeldaGrassImage from '../images/totk-zelda-grass.png';
 
 import { ImageGalleryConfigType } from './types';
 
-export const imageGalleryConfig : ImageGalleryConfigType = [
+export const illustrationsImageList : ImageGalleryConfigType = [
     {
         src: UnaCielImage,
         altText: "Original Artwork with OCs Una and Ciel in a eucalyptus forest",

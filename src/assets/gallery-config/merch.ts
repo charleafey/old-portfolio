@@ -1,10 +1,10 @@
-import PokemonStickersRegular from './images/eeveelutions_left.png';
-import PokemonStickersShiny from './images/eeveelutions-right.png';
-import FrogStickers from './images/totk-frog-stickers.png';
+import PokemonStickersRegular from '../images/eeveelutions_left.png';
+import PokemonStickersShiny from '../images/eeveelutions-right.png';
+import FrogStickers from '../images/totk-frog-stickers.png';
 
 import { ImageGalleryConfigType } from './types';
 
-export const imageGalleryConfig : ImageGalleryConfigType = [
+export const merchImageList : ImageGalleryConfigType = [
     {
         src: PokemonStickersRegular,
         altText: "Pokemon Eeveelution Stickers",

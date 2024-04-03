@@ -1,13 +1,13 @@
 import React from 'react';
 import Gallery from '../../components/gallery';
 import Header from '../../components/header';
-import { imageGalleryConfig } from '../../assets/imageConfig';
+import { illustrationsImageList } from '../../assets/gallery-config/illustrations';
 
 const Home : React.FunctionComponent = () => {
     return (
         <React.Fragment>
             <Header/>
-            <Gallery imageList={imageGalleryConfig}/>
+            <Gallery imageList={illustrationsImageList}/>
         </React.Fragment>
     );
 }
