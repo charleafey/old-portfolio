@@ -7,7 +7,7 @@ import Magazine from '../images/magazine.png';
 import PrideTattoo from '../images/pride-tattoo.png';
 import Willow from '../images/willow.jpg';
 
-import { ImageGalleryConfigType } from './types';
+import { ImageGalleryConfigType, ImageProportions } from './types';
 
 export const graphicsImageList : ImageGalleryConfigType = [
     {
@@ -29,14 +29,17 @@ export const graphicsImageList : ImageGalleryConfigType = [
     {
         src: GhibliDay,
         altText: "Ghibli-inspired design for society recruitment banner",
+        shape: ImageProportions.Square,
     },
     {
         src: GhibliNight,
         altText: "Ghibli-inspired design for movie night banner",
+        shape: ImageProportions.Square,
     },
     {
         src: Magazine,
         altText: "two-page magazine artwork spread featuring a woman in a dystopian world",
+        shape: ImageProportions.Square,
     },
     {
         src: PrideTattoo,

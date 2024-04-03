@@ -33,6 +33,7 @@ export const Gallery : React.FunctionComponent<GalleryProps> = ({imageList} : Ga
                                 imageSrc={info.src}
                                 key={index}
                                 altText={info.altText}
+                                shape={info.shape}
                             />
                         )
                     }
