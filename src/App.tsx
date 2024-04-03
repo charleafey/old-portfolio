@@ -1,9 +1,9 @@
 import React from 'react';
-import Home from './pages/home';
 import './App.css';
 import Header from './components/header';
 import { Route, Routes } from 'react-router-dom';
 import MerchPage from './pages/merch';
+import Home from './pages/Home';
 
 function App() {
   return (

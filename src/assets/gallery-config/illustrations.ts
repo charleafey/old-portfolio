@@ -1,6 +1,6 @@
 import KazuhaImage from '../images/genshin-kazuha-leaves.png';
 import RaidenImage from '../images/genshin-raiden-lotus.png';
-import ScaraImage from '../images/genshin-scara-cat.png';
+import ScaraImage from '../images/genshin-scara-cat.PNG';
 import VentiImage from '../images/genshin-venti-angel.png';
 import YaeImage from '../images/genshin-yae-miko-sakura.png';
 import KenmaImage from '../images/haikyuu-kenma.png';
