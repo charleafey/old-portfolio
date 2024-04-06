@@ -8,6 +8,7 @@ import UnaCielImage from '../images/original-una-ciel-trees.png';
 import ChihiroImage from '../images/spirited-away-haku-chihiro.png';
 import LinkDragonImage from '../images/totk-link-dragon.png';
 import ZeldaGrassImage from '../images/totk-zelda-grass.png';
+import RockpoolsImpage from '../images/rockpools.png';
 
 import { ImageGalleryConfigType } from './types';
 
@@ -19,6 +20,10 @@ export const illustrationsImageList : ImageGalleryConfigType = [
     {
         src: ChihiroImage,
         altText: "Chihiro and Dragon Haku in Ocean",
+    },
+    {
+        src: RockpoolsImpage,
+        altText: "Original Artwork of Una walking through rockpools",
     },
     {
         src: VentiImage,
