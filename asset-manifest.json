@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/charraxeon/static/css/main.53d4332a.css",
-    "main.js": "/charraxeon/static/js/main.53c37d67.js",
+    "main.js": "/charraxeon/static/js/main.0ed37e3d.js",
     "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
     "static/media/magazine.png": "/charraxeon/static/media/magazine.1d0109416e3e7053be72.png",
     "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
@@ -28,11 +28,11 @@
     "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/charraxeon/index.html",
     "main.53d4332a.css.map": "/charraxeon/static/css/main.53d4332a.css.map",
-    "main.53c37d67.js.map": "/charraxeon/static/js/main.53c37d67.js.map",
+    "main.0ed37e3d.js.map": "/charraxeon/static/js/main.0ed37e3d.js.map",
     "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53d4332a.css",
-    "static/js/main.53c37d67.js"
+    "static/js/main.0ed37e3d.js"
   ]
 }
