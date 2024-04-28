@@ -29,7 +29,7 @@ const Header : React.FunctionComponent = () => {
         <div style={headerStyles}>
             <h1 style={titleStyles}>charraxeon</h1>
             <p style={{fontWeight: "bold"}}>charley <span className="pronouns">(they/them)</span></p>
-            <p><em>asian australian artist and chaser of colours through the trees.</em></p>
+            <p><em>asian australian digital artist and eucalyptus admirer</em></p>
             <a href="https://www.instagram.com/charraxeon/">
                 <InstaSvg className="instaIcon"/>
             </a>
