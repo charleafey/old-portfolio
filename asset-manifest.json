@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/charraxeon/static/css/main.53d4332a.css",
-    "main.js": "/charraxeon/static/js/main.0ed37e3d.js",
+    "main.js": "/charraxeon/static/js/main.f36dadd8.js",
     "static/js/453.68582f89.chunk.js": "/charraxeon/static/js/453.68582f89.chunk.js",
     "static/media/magazine.png": "/charraxeon/static/media/magazine.1d0109416e3e7053be72.png",
     "static/media/genshin-raiden-lotus.png": "/charraxeon/static/media/genshin-raiden-lotus.b8efed733b8c66b83776.png",
@@ -19,6 +19,9 @@
     "static/media/eeveelutions-right.png": "/charraxeon/static/media/eeveelutions-right.8bafb61903bc61415d36.png",
     "static/media/eeveelutions_left.png": "/charraxeon/static/media/eeveelutions_left.a953f61fc0f1c0623541.png",
     "static/media/totk-frog-stickers.png": "/charraxeon/static/media/totk-frog-stickers.12a98a78473a081dba50.png",
+    "static/media/frog-stickers.png": "/charraxeon/static/media/frog-stickers.f4c5b8d080eb040a50db.png",
+    "static/media/cat-stickers.png": "/charraxeon/static/media/cat-stickers.6492ae0bfb95546f6a7a.png",
+    "static/media/shark-stickers.png": "/charraxeon/static/media/shark-stickers.16f8344897d5c327b197.png",
     "static/media/cat-keyboard.jpg": "/charraxeon/static/media/cat-keyboard.3e8ce372b89c755e17ec.jpg",
     "static/media/altaria-sundae.png": "/charraxeon/static/media/altaria-sundae.896dc1c16430b8da0ad5.png",
     "static/media/otter-wave.png": "/charraxeon/static/media/otter-wave.55207b22b4ce90b370b1.png",
@@ -28,11 +31,11 @@
     "static/media/insta.svg": "/charraxeon/static/media/insta.9cdae12d6d8fdbecceef0392ffb82f65.svg",
     "index.html": "/charraxeon/index.html",
     "main.53d4332a.css.map": "/charraxeon/static/css/main.53d4332a.css.map",
-    "main.0ed37e3d.js.map": "/charraxeon/static/js/main.0ed37e3d.js.map",
+    "main.f36dadd8.js.map": "/charraxeon/static/js/main.f36dadd8.js.map",
     "453.68582f89.chunk.js.map": "/charraxeon/static/js/453.68582f89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53d4332a.css",
-    "static/js/main.0ed37e3d.js"
+    "static/js/main.f36dadd8.js"
   ]
 }
